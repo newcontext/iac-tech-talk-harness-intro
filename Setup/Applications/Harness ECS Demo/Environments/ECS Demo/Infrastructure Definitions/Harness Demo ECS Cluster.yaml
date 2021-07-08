@@ -1,0 +1,11 @@
+harnessApiVersion: '1.0'
+type: INFRA_DEFINITION
+cloudProviderType: AWS
+deploymentType: ECS
+infrastructure:
+- type: AWS_ECS
+  assignPublicIp: false
+  cloudProviderName: Amazon Web Services
+  clusterName: harness-demo
+  launchType: EC2
+  region: us-east-1
