@@ -1,0 +1,10 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: harness
+delegateSelectors:
+- harness-sample-k8s-delegate-hbbgiv-0
+keyAuth: false
+password: gcpkms:QDUHgf3eSEqcjIodV9Hxvg
+url: https://github.com/newcontext/iac-tech-talk-harness-intro.git
+urlType: REPO
+username: wubrg
