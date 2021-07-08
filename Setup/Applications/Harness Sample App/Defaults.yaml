@@ -3,8 +3,8 @@ type: APPLICATION_DEFAULTS
 defaults:
 - name: BACKUP_PATH
   value: $HOME/${app.name}/${service.name}/${env.name}/backup/${timestampId}
-- name: KoolAid Man
-  value: Oh Yeah!
+- name: LETS_TEST_THIS_B
+  value: oh no Kool-Aid man!
 - name: RUNTIME_PATH
   value: $HOME/${app.name}/${service.name}/${env.name}/runtime
 - name: STAGING_PATH
