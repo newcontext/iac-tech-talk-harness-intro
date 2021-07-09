@@ -4,7 +4,7 @@ defaults:
 - name: BACKUP_PATH
   value: $HOME/${app.name}/${service.name}/${env.name}/backup/${timestampId}
 - name: KoolAid Man
-  value: Oh No!
+  value: Oh Yeah!
 - name: RUNTIME_PATH
   value: $HOME/${app.name}/${service.name}/${env.name}/runtime
 - name: STAGING_PATH
